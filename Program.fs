@@ -1,7 +1,7 @@
 ﻿open XmlProviderXsdDupes.Providers
 
 (*
-Note: In each scenario listed below you can see the problem that occurrs by 
+Note: In each scenario listed below you can see the problem that occurs by 
   Using the name attribute to create the types instead of using the type attribute
   Not only does it yield confusing names but you'll notice the 2nd constructor in 
   Each group takes the exact same parameters meaning they are the same schema type
